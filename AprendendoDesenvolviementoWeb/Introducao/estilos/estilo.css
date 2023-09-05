@@ -33,3 +33,24 @@ p {
     width: 700px;
     border: 1px solid blue;
 }
+
+#fonte-brasil-id {
+    color: black;
+    border: 0px;
+}
+
+img[src] {
+    display: block;
+    margin: 0 auto;
+    width: 500px;
+    
+}
+
+a:hover{
+    border: 1px solid yellow;
+}
+
+.titulo-brasil {
+    text-align: center;
+}
+
