@@ -1,0 +1,56 @@
+html {
+    background-color: #e4ebf7;
+    font-size: 20px;
+    font-family: 'Cedarville Cursive', cursive;
+}
+
+body {
+    width: 700px;
+    margin: 0 auto;
+    background-color: #def2c9;
+    padding: 0 20px 20px 20px;
+    border:  1px solid black;
+}
+
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: green;
+    text-shadow: 3px 3px 1px yellow;
+   
+}
+
+p,
+li {
+    color: green;
+    font-size: 18px;
+    line-height: 1;
+    letter-spacing: 1px;
+    
+}
+
+p {
+    width: 700px;
+    border: 1px solid blue;
+}
+
+#fonte-brasil-id {
+    color: black;
+    border: 0px;
+}
+
+img[src] {
+    display: block;
+    margin: 0 auto;
+    width: 500px;
+    
+}
+
+a:hover{
+    border: 1px solid yellow;
+}
+
+.titulo-brasil {
+    text-align: center;
+}
+
